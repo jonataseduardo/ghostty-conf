@@ -30,8 +30,8 @@ A comprehensive Ghostty terminal configuration that provides tmux-like functiona
 - `Ctrl+Shift+N` - New window
 - `Ctrl+Shift+D` - Horizontal split
 - `Ctrl+Shift+Shift+D` - Vertical split
-- `Alt+1-9` - Switch to tab 1-9
-- `Alt+Left/Right` - Switch between tabs
+- `Ctrl+1-9` - Switch to tab 1-9
+- `Ctrl+Shift+Left/Right` - Switch between tabs
 
 ## Installation
 
